@@ -1,4 +1,3 @@
-## Hi there 👋
 ### My name is Park Yeonsu just call me 
 # "KITE"
 
