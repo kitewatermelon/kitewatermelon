@@ -1,12 +1,12 @@
 ### My name is Park Yeonsu just call me 
 # "KITE"
-
+- 🏫 PKNU (Busan, South Korea) / Computer Science
 - 🌱 I’m currently learning HTML,CSS,JS
 - 📫 How to reach me: 
 ```CSS	
 .contact {
-    instagram: "_kite_watermelon_"
-    GMail: "parkite576@gmail.com"
+    instagram: "_kite_watermelon_";
+    gmail: "parkite576@gmail.com";
 }
 ```
 
