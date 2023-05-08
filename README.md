@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning HTML,CSS,JS
 - 📫 How to reach me: 
 ```CSS	
-- .contact {
-- >    instagram: "\_kite_watermelon\_"
-- >    GMail: "parkite576@gmail.com"
-- }
+.contact {
+    instagram: "_kite_watermelon_"
+    GMail: "parkite576@gmail.com"
+}
 ```
 
 <!--
