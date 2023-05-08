@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning HTML,CSS,JS
 - 📫 How to reach me: 
 - .contact {
-- \  instagram: "\_kite_watermelon\_"
-- \  GMail: "parkite576@gmail.com"
+- > This is a blockqute instagram: "\_kite_watermelon\_"
+- > This is a blockqute   GMail: "parkite576@gmail.com"
 - }
 
 
