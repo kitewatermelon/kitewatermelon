@@ -1,5 +1,6 @@
-### Hi there 👋
-## My name is Park Yeonsu simply call me "kite"
+## Hi there 👋
+### My name is Park Yeonsu just call me 
+# "KITE"
 
 - 🌱 I’m currently learning HTML,CSS,JS
 - 📫 How to reach me: 
