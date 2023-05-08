@@ -10,8 +10,8 @@
 }
 ```
 - 😻 what I love : CAT,POKEMON
-- 👪 CLUB : PKNU WAP / 공부 안하면 돈 뺏기는 방 
-- ⛪️ CHRISTIAN : Dongshin Church(Daegu, South Korea)
+- 👪 CLUB I belong to : PKNU WAP / 공부 안하면 돈 뺏기는 방 
+- ⛪️ my religion is : Christian / Dongshin Church(Daegu, South Korea)
 
 <!--
 **kitewatermelon/kitewatermelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
