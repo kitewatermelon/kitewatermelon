@@ -1,23 +1,24 @@
-### My name is Park Yeonsu just call me 
-# "KITE"
-- 🏫 PKNU (Busan, South Korea) / Computer Science 💻
-- 🌱 I’m currently learning HTML,CSS,JS,React💫
+### My name is Park Yeonsu
+- 🏫 PKNU (Busan, South Korea🇰🇷) / Computer Science 💻
+- 🌱 I’m currently learning ⚙️ML ⚙️DL ⚙️ImageProcessing💫
+- 🔭 I’m currently working on Medical AI lab in PKNU
+
 - 📫 How to reach me: 
 ```CSS	
 .contact {
-    instagram: "_kite_watermelon_";
+    instagram: "35683568_";
     gmail: "parkite576@gmail.com";
 }
 ```
-- 😻 what I love : CAT,POKEMON
-- 👪 CLUB I belong to : PKNU WAP / 공부 안하면 돈 뺏기는 방 
-- ⛪️ my religion is : Christian / Dongshin Church(Daegu, South Korea)
+- ✝️✝️  christian
+- 😺🐶 animal lover
+- 🥋🥋 jiujiteiro
+
 
 <!--
 **kitewatermelon/kitewatermelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
