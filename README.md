@@ -1,6 +1,6 @@
 ### My name is Park Yeonsu
 - 🏫 PKNU (Busan, South Korea🇰🇷) / Computer Science 💻
-- 🌱 I’m currently learning ⚙️ML ⚙️DL ⚙️ImageProcessing💫
+- 🌱 I’m currently learning ⚙️ML ⚙️DL ⚙️ImageProcessing💫
 - 🔭 I’m currently working on Medical AI lab in PKNU
 
 - 📫 How to reach me: 
