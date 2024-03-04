@@ -1,15 +1,24 @@
 ### My name is Park Yeonsu
+
 - 🏫 PKNU (Busan, South Korea🇰🇷) / Computer Science 💻
 - 🌱 I’m currently learning ⚙️ML ⚙️DL ⚙️ImageProcessing💫
-- 🔭 I’m currently working on Medical AI lab in PKNU
+- 🔭 undergraduate research student of Medcal AI LAB
 
-- 📫 How to reach me: 
+- 📫 How to conatct me: 
 ```CSS	
 .contact {
     instagram: "35683568_";
     gmail: "parkite576@gmail.com";
 }
 ```
+- 🤔 What I study noadays:
+```CSS	
+.interests {
+    semi-supervised learning
+    XAI
+}
+```
+
 - ✝️✝️  christian
 - 😺🐶 animal lover
 - 🥋🥋 jiujiteiro
