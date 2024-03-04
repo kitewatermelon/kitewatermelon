@@ -11,7 +11,7 @@
     gmail: "parkite576@gmail.com";
 }
 ```
-- 🤔 What I study noadays:
+- 🤔 What I study nowadays:
 ```CSS	
 .interests {
     semi-supervised learning
