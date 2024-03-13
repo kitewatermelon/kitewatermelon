@@ -4,12 +4,16 @@
 - 🌱 I’m currently learning ⚙️ML ⚙️DL ⚙️ImageProcessing💫
 - 🔭 undergraduate research student of Medcal AI LAB
 
-- 📫 How to conatct me: 
+📫 How to conatct me: 
 ```CSS	
 .contact {
     instagram: "35683568_";
     gmail: "parkite576@gmail.com";
 }
+```
+
+🤔 What I study nowadays:
+```CSS	
 .interests {
     semi-supervised learning
     XAI
