@@ -10,9 +10,6 @@
     instagram: "35683568_";
     gmail: "parkite576@gmail.com";
 }
-```
-- 🤔 What I study nowadays:
-```CSS	
 .interests {
     semi-supervised learning
     XAI
