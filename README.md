@@ -26,13 +26,15 @@
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=Tistory&logoColor=white"/>
     <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=Tistory&logoColor=white"/>
     <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=Tistory&logoColor=white"/>
-    
+</p>
+<p>
     for Web
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=Tistory&logoColor=white"/>
     <img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=Tistory&logoColor=white"/>
     <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=Tistory&logoColor=white"/>
-    
+</p>
+<p>   
     for Fun
     <img src="https://img.shields.io/badge/nintendoswitch-E60012?style=flat&logo=Tistory&logoColor=white"/>
     <img src="https://img.shields.io/badge/apple-000000?style=flat&logo=Tistory&logoColor=white"/>
