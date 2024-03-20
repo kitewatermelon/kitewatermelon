@@ -20,9 +20,10 @@
 }
 ```
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkite576)](https://solved.ac/parkite576)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitewatermelon)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kitewatermelon&show_icons=true&theme=radical)
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kitewatermelon&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitewatermelon&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
 
 - ✝️✝️  christian
 - 😺🐶 animal lover
