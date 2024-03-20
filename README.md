@@ -46,11 +46,11 @@
   
 ----
 <h5>📫 How to conatct me: </h5>
-instagram: "35683568_"   
+instagram: "35683568_"   <br></br>
 gmail: "parkite576@gmail.com"   
 
 <h5>About me: </h5>
-✝️✝️  christian   
-😺🐶 animal lover   
-🥋🥋 jiujiteiro   
+✝️✝️  christian   <br></br>
+😺🐶 animal lover   <br></br>
+🥋🥋 jiujiteiro   <br></br>
 </div>
