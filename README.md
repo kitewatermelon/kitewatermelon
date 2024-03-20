@@ -41,7 +41,7 @@ What I love
     <img src="https://img.shields.io/badge/apple-000000?style=flat&logo=apple&logoColor=white"/>
     <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
     <img src="https://img.shields.io/badge/pokemon-FFCB05?style=flat&logo=pokemon&logoColor=white"/>
-    <img src="https://img.shields.io/badge/logitech-#00B8FC?style=flat&logo=logitech&logoColor=white"/>
+    <img src="https://img.shields.io/badge/logitech-00B8FC?style=flat&logo=logitech&logoColor=white"/>
 </p>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkite576)](https://solved.ac/parkite576)
