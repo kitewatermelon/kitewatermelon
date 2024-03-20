@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning ⚙️ML ⚙️DL ⚙️ImageProcessing💫
 - 🔭 undergraduate research student of Medcal AI LAB
 
+----
 ### Tech tools
-
 <h5>for AI</h5>
 <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
@@ -35,13 +35,14 @@
     
 </p>
 
+----
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkite576)](https://solved.ac/parkite576)
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kitewatermelon&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitewatermelon&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
-
+----
 📫 How to conatct me: 
 - instagram: "35683568_";
 - gmail: "parkite576@gmail.com";
