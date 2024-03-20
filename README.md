@@ -1,6 +1,6 @@
 ### HI! My name is Park Yeonsu
 ### 박연수입니다.
-======
+----
 - 🏫 PKNU (Busan, South Korea🇰🇷) / Computer Engineering 💻
 - 🌱 I’m currently learning ⚙️ML ⚙️DL ⚙️ImageProcessing💫
 - 🔭 undergraduate research student of Medcal AI LAB
