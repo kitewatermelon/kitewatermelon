@@ -21,7 +21,7 @@
 ```
 for AI
 <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" height="20px"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" height="30px"/>
     <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
     <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
