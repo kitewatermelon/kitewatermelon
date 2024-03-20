@@ -26,6 +26,7 @@ for AI
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
     <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
     <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
 </p>
 for Web
 <p>
@@ -38,6 +39,9 @@ What I love
 <p>   
     <img src="https://img.shields.io/badge/nintendoswitch-E60012?style=flat&logo=nintendoswitch&logoColor=white"/>
     <img src="https://img.shields.io/badge/apple-000000?style=flat&logo=apple&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/pokemon-FFCB05?style=flat&logo=pokemon&logoColor=white"/>
+    <img src="https://img.shields.io/badge/logitech-#00B8FC?style=flat&logo=logitech&logoColor=white"/>
 </p>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkite576)](https://solved.ac/parkite576)
