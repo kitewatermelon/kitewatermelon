@@ -45,12 +45,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitewatermelon&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   
 ----
-
-📫 How to conatct me: 
+<h5>📫 How to conatct me: </h5>
 instagram: "35683568_"   
 gmail: "parkite576@gmail.com"   
 
-Etc
+<h5>About me: </h5>
 ✝️✝️  christian   
 😺🐶 animal lover   
 🥋🥋 jiujiteiro   
