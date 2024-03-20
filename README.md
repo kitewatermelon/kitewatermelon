@@ -20,7 +20,7 @@
 }
 ```
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
+<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=Tistory&logoColor=white"/>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkite576)](https://solved.ac/parkite576)
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kitewatermelon&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
