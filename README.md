@@ -47,11 +47,11 @@
 ----
 
 📫 How to conatct me: 
-instagram: "35683568_";
-gmail: "parkite576@gmail.com";
+instagram: "35683568_"   
+gmail: "parkite576@gmail.com"   
 
 Etc
-✝️✝️  christian
-😺🐶 animal lover
-🥋🥋 jiujiteiro
+✝️✝️  christian   
+😺🐶 animal lover   
+🥋🥋 jiujiteiro   
 </div>
