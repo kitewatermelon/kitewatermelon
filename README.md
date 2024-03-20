@@ -19,8 +19,25 @@
     XAI
 }
 ```
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=Tistory&logoColor=white"/>
+<p>
+    for AI
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=Tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=Tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=Tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=Tistory&logoColor=white"/>
+    
+    for Web
+    <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=Tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=Tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=Tistory&logoColor=white"/>
+    
+    for Fun
+    <img src="https://img.shields.io/badge/nintendoswitch-E60012?style=flat&logo=Tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/apple-000000?style=flat&logo=Tistory&logoColor=white"/>
+</p>
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkite576)](https://solved.ac/parkite576)
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kitewatermelon&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
