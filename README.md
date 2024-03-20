@@ -22,7 +22,7 @@
 <p>
     for AI
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=Tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=Tistory&logoColor=white"/>
     <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=Tistory&logoColor=white"/>
     <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=Tistory&logoColor=white"/>
