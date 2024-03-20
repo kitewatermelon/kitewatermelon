@@ -1,13 +1,13 @@
 <div align=center>
-### HI! My name is Park Yeonsu
-### 박연수입니다.
+<h3> HI! My name is Park Yeonsu </h3>
+<h3> 박연수입니다.</h3>
 ----
-- 🏫 PKNU (Busan, South Korea🇰🇷) / Computer Engineering 💻
-- 🌱 I’m currently learning ⚙️ML/DL/ImageProcessing/XAI
-- 🔭 undergraduate research student of Medcal AI LAB
+🏫 PKNU (Busan, South Korea🇰🇷) / Computer Engineering 💻   
+🌱 I’m currently learning ⚙️ML/DL/ImageProcessing/XAI   
+🔭 undergraduate research student of Medcal AI LAB   
 
 ----
-### Tech tools
+<h3> Tech tools</h3>
 <h5>for AI</h5>
 <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
