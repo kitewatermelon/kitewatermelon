@@ -1,4 +1,9 @@
-### My name is Park Yeonsu
+### HI! My name is Park Yeonsu
+### 박연수입니다.
+======
+- 🏫 PKNU (Busan, South Korea🇰🇷) / Computer Engineering 💻
+- 🌱 I’m currently learning ⚙️ML ⚙️DL ⚙️ImageProcessing💫
+- 🔭 undergraduate research student of Medcal AI LAB
 
 ### Tech tools
 
@@ -36,9 +41,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitewatermelon&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
-- 🏫 PKNU (Busan, South Korea🇰🇷) / Computer Science 💻
-- 🌱 I’m currently learning ⚙️ML ⚙️DL ⚙️ImageProcessing💫
-- 🔭 undergraduate research student of Medcal AI LAB
 
 📫 How to conatct me: 
 - instagram: "35683568_";
