@@ -25,6 +25,7 @@
 <p>
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
 </p>
