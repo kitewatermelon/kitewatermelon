@@ -46,8 +46,10 @@
 ----
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkite576)](https://solved.ac/parkite576)   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kitewatermelon&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitewatermelon&layout=compact&bg_color=0,0,0&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kitewatermelon&show_icons=true&include_all_commits=true">
+<!-- &bg_color=30,e96443,904e95&title_color=fff&text_color=fff -->
+<!--   &bg_color=30,e96443,904e95&title_color=000&text_color=000 -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitewatermelon&layout=compact">
   
 ----
 <h5>📫 How to conatct me: </h5>
