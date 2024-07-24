@@ -14,7 +14,7 @@
 <h5>for AI</h5>
 
 <p>
-    <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/nvidia-76B900?style=flat&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
