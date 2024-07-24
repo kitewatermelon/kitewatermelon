@@ -12,16 +12,17 @@
 
 <h3> Tech tools</h3>
 <h5>for AI</h5>
-
+CUDA : 11.8 
+cudnn : 8.7.0
 <p>
-    <img src="https://img.shields.io/badge/nvidia-76B900?style=flat&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/nvidia-76B900?style=flat&logo=nvidia&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
     <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
-</p>   
+</p> 
 <h5>for Web</h5>
 <p>
     <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white" />
