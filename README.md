@@ -5,9 +5,10 @@
 ---- 
 
 🏫 PKNU (Busan, South Korea🇰🇷) / Computer Engineering 💻   
-🌱 I’m currently learning ⚙️ML/DL/ImageProcessing/XAI   
 🔭 undergraduate research student of Medcal AI LAB   
-
+📫 How to conatct me: 
+    instagram: "35683568_"
+    gmail: "parkite576@gmail.com"  
 ----
 
 <h3> Tech tools</h3>
@@ -52,12 +53,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitewatermelon&theme=dark&layout=compact)
   
 ----
-<h5>📫 How to conatct me: </h5>
-instagram: "35683568_"   <br></br>
-gmail: "parkite576@gmail.com"   
 
-<h5>About me: </h5>
-✝️✝️  christian   <br></br>
-😺🐶 animal lover   <br></br>
-🥋🥋 jiujiteiro   <br></br>
 </div>
