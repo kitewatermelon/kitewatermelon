@@ -6,9 +6,7 @@
 
 🏫 PKNU (Busan, South Korea🇰🇷) / Computer Engineering 💻   
 🔭 undergraduate research student of Medcal AI LAB   
-📫 How to conatct me:    
-    instagram: "35683568_"    
-    gmail: "parkite576@gmail.com"      
+📫 gmail: parkite576@gmail.com      
 ----
 
 <h3> Tech tools</h3>
