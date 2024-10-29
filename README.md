@@ -2,18 +2,26 @@
 <h3> HI! My name is Park Yeonsu </h3>
 <h3> 박연수입니다.</h3>
 -->
----- 
+## Hello World!    
+My name is Yeon Su Park. Welcome to my zone.   
+<a href="https://github.com/kitewatermelon/this_is_for_you">this is for you.</a>
 
-- 🏫 PKNU (Busan🌊, South Korea🇰🇷) / Computer Engineering 💻   
-- 🔭 undergraduate research student of Medcal AI LAB
+## I am...
+- 🏫 Computer Engineering student at PKNU (🌊Busan, 🇰🇷South Korea)   
+- 🔭 Undergraduate research student at Medical AI LAB   
+- ⚾️ Passionate about baseball   
 
-----
+## what I usally use...
 <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
 </div>
+
+## my github stats...   
+![Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitewatermelon&theme=dark&show_icons=true)   
+
 <!-- 
 <h3> Tech tools</h3>
 <h5>for AI(CUDA : 11.8 / cudnn : 8.7.0)</h5>
@@ -48,14 +56,13 @@
     <img src="https://img.shields.io/badge/logitech-00B8FC?style=flat&logo=logitech&logoColor=white" />
 </p>
 -->
-----
+
+
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkite576)](https://solved.ac/parkite576)     -->
 
-![Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitewatermelon&theme=dark&show_icons=true)   
 
 <!-- # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitewatermelon&theme=dark&layout=compact) -->
   
-----
 <!--
 </div>
 -->
