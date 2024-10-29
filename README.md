@@ -11,7 +11,7 @@ My name is Yeon Su Park. Welcome to my zone.
 - 🔭 Undergraduate research student at Medical AI LAB   
 - ⚾️ Passionate about baseball   
 
-## 💻 what I usally use...
+## 💻 What I usally use...
 <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
@@ -19,7 +19,7 @@ My name is Yeon Su Park. Welcome to my zone.
     <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
 </div>
 
-## 😺 my github stats...   
+## 😺 My github stats...   
 ![Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitewatermelon&theme=dark&show_icons=true)   
 
 <!-- 
