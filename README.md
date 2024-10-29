@@ -2,16 +2,16 @@
 <h3> HI! My name is Park Yeonsu </h3>
 <h3> 박연수입니다.</h3>
 -->
-## Hello World!    
+## 🙌 Hello World!    
 My name is Yeon Su Park. Welcome to my zone.   
 <a href="https://github.com/kitewatermelon/this_is_for_you">this is for you.</a>
 
-## I am...
+## 🙋‍♂️ I am...
 - 🏫 Computer Engineering student at PKNU (🌊Busan, 🇰🇷South Korea)   
 - 🔭 Undergraduate research student at Medical AI LAB   
 - ⚾️ Passionate about baseball   
 
-## what I usally use...
+## 💻 what I usally use...
 <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
@@ -19,7 +19,7 @@ My name is Yeon Su Park. Welcome to my zone.
     <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
 </div>
 
-## my github stats...   
+## 😺 my github stats...   
 ![Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitewatermelon&theme=dark&show_icons=true)   
 
 <!-- 
