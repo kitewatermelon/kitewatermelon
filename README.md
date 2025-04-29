@@ -10,7 +10,7 @@ My name is Yeon Su Park. Welcome to my zone.
 - 🏫 Computer Engineering student at PKNU (🌊Busan, 🇰🇷South Korea)   
 - 🔭 Undergraduate research student at Medical AI LAB   
 - ⚾️ Passionate about baseball
-- 🤓 Internship in LAIT(UNIST) (2024.12-present)
+- 🤓 Internship in LAIT(UNIST) (2024.12-2025.4)
 
 ## 💻 What I usally use...
 <div>
