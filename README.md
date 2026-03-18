@@ -7,11 +7,12 @@ My name is Yeon Su Park.
 ## 🙋‍♂️ I am...
 - 🏫 Computer Engineering student at PKNU (🌊Busan, 🇰🇷South Korea)   
 - 🔭 Master student at Medical AI LAB (2026.3~)   
+- Interesting in Medical AI, Self-Supervised Learning and Baseball   
 
 ## 💻 What I usally use...
 <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white" /> -->
 </div>
