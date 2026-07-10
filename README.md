@@ -11,5 +11,7 @@ I'm Yeon Su Park.
 <div>
     I usually work on
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/MLX-000000?style=flat&logo=mlx&logoColor=white" />
+    
 </div>
